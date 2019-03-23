@@ -1,0 +1,207 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Reservation Form</title>
+		<link rel="stylesheet" href="style3.css">
+		<link rel="stylesheet" type="text/css" href="style4.css">
+		<link rel="stylesheet" type="text/css" href="style8.css">
+	</head>
+	<body>
+		<nav>
+			<div class="brand">
+				<h3>Tres Housing Services</h3>
+			</div>
+			<ul>
+				<li><a href="About.html">About</a></li>
+				<li><a href="Response.html">Survey Response</a></li>
+				<li><a href="Contact us.html">Contact</a></li>
+			</ul>
+		</nav>
+			<section>
+					<div class="container">
+						<div class="form_content">
+							<h2>Get a reservation now!</h2>
+							<p>Supports 24/7 service for all customers from budget houses. We can give what your family housing needs and locations needed with your job and school.</p>
+							<a href="#"><font color="white">Read More</font></a>
+						</div>
+				<div class="booking_form">
+					<form>
+						<h1>Get a New House Now!</h1>
+						<input type="text" name="yourname" required="" placeholder="Your Name">
+						<input type="" name="" required="" placeholder="Mobile Number +63">
+						<h1>Start Date</h1>
+						<select name="DoBmonth">
+							<option>Month</option>
+							<option value="January">January</option>
+							<option value="February">February</option>
+							<option value="March">March</option>
+							<option value="April">April</option>
+							<option value="May">May</option>
+							<option value="June">June</option>
+							<option value="July">July</option>
+							<option value="August">August</option>
+							<option value="September">September</option>
+							<option value="October">October</option>
+							<option value="November">November</option>
+							<option value="December">December</option>
+						</select>
+				
+						<select name="DoBday">
+							<option>Day</option>
+							<option value="1">1</option>
+							<option value="2">2</option>
+							<option value="3">3</option>
+							<option value="4">4</option>
+							<option value="5">5</option>
+							<option value="6">6</option>
+							<option value="7">7</option>
+							<option value="8">8</option>
+							<option value="9">9</option>
+							<option value="10">10</option>
+							<option value="11">11</option>
+							<option value="12">12</option>
+							<option value="13">13</option>
+							<option value="14">14</option>
+							<option value="15">15</option>
+							<option value="16">16</option>
+							<option value="17">17</option>
+							<option value="18">18</option>
+							<option value="19">19</option>
+							<option value="20">20</option>
+							<option value="21">21</option>
+							<option value="22">22</option>
+							<option value="23">23</option>
+							<option value="24">24</option>
+							<option value="25">25</option>
+							<option value="26">26</option>
+							<option value="27">27</option>
+							<option value="28">28</option>
+							<option value="29">29</option>
+							<option value="30">30</option>
+							<option value="31">31</option>
+						</select>
+				
+						<select name="DoByear">
+							<option>Year</option>
+							<option value="2018">2018</option>
+							<option value="2019">2019</option>
+							<option value="2020">2020</option>
+							<option value="2021">2021</option>
+							<option value="2022">2022</option>
+							<option value="2023">2023</option>
+							<option value="2024">2024</option>
+						</select>
+						<h1>Move Date</h1>
+						<select name="DoBmonth">
+							<option>Month</option>
+							<option value="January">January</option>
+							<option value="February">February</option>
+							<option value="March">March</option>
+							<option value="April">April</option>
+							<option value="May">May</option>
+							<option value="June">June</option>
+							<option value="July">July</option>
+							<option value="August">August</option>
+							<option value="September">September</option>
+							<option value="October">October</option>
+							<option value="November">November</option>
+							<option value="December">December</option>
+						</select>
+				
+						<select name="DoBday">
+							<option>Day</option>
+							<option value="1">1</option>
+							<option value="2">2</option>
+							<option value="3">3</option>
+							<option value="4">4</option>
+							<option value="5">5</option>
+							<option value="6">6</option>
+							<option value="7">7</option>
+							<option value="8">8</option>
+							<option value="9">9</option>
+							<option value="10">10</option>
+							<option value="11">11</option>
+							<option value="12">12</option>
+							<option value="13">13</option>
+							<option value="14">14</option>
+							<option value="15">15</option>
+							<option value="16">16</option>
+							<option value="17">17</option>
+							<option value="18">18</option>
+							<option value="19">19</option>
+							<option value="20">20</option>
+							<option value="21">21</option>
+							<option value="22">22</option>
+							<option value="23">23</option>
+							<option value="24">24</option>
+							<option value="25">25</option>
+							<option value="26">26</option>
+							<option value="27">27</option>
+							<option value="28">28</option>
+							<option value="29">29</option>
+							<option value="30">30</option>
+							<option value="31">31</option>
+						</select>
+				
+						<select name="DoByear">
+							<option>Year</option>
+							<option value="2018">2018</option>
+							<option value="2019">2019</option>
+							<option value="2020">2020</option>
+							<option value="2021">2021</option>
+							<option value="2022">2022</option>
+							<option value="2023">2023</option>
+							<option value="2024">2024</option>
+						</select>
+						<h1>House Type</h1>
+							<select name="DoBrooms">
+							<option>Model</option>
+							<option value="Room 1">Agoncillo</option>
+							<option value="Room 2">Bonifacio</option>
+							<option value="Room 3">Del Pilar</option>
+							<option value="Room 4">Rizal</option>
+							<option value="Room 5">Mabini</option>
+							<option value="Room 6">Silang</option>
+							<option value="More Options">More Options...</option>
+							</select>
+						<a href="Index.html"><input type="button" value="Reserve Now"></a>
+				</div>			
+			</section>		
+					<div class="textOverImage" style="background-Image:url(1delux.jpg)"
+					data-text="Agoncillo P1,000/month	
+	
+	For the growing family and more, Agoncillo's spacious 73 sq. meter floar area is an excellent nest for various personalities of the family. Its four-room feature supports optimal growth in all aspects of the family's life as a whole.">
+					</div></a>
+					
+					<div class="textOverImage" style="background-Image:url(1sups.jpg)"
+					data-text="Bonifacio P1,500/month
+					
+	The second startup houses is Bonifacio model. A box type home expanded from 5 to 6 meters. Since the 36 sqm house now has two equal size bedrooms with a toilet in between.">
+					</div></a>
+					
+					<div class="textOverImage" style="background-Image:url(1delsuite.jpg)"
+					data-text="Del Pilar P2,000/month
+					
+	Need a bigger space for a growing family? Starting a business needing more space for stocks? or does your hobby require larger area? Del Pilar is the double story exoansion not only the area but the functions as well.">
+					</div></a>
+					
+					<div class="textOverImage" style="background-Image:url(1exec.jpg)"
+					data-text="Rizal P2,500/month	
+					
+	Nothing beats a good morning coffee in your own balcony while overlooking the early morning routine of the people around. This lets you host gatherings in an elevated space..">
+					</div></a>
+					
+					<div class="textOverImage" style="background-Image:url(1paci.jpg)"
+					data-text="Mabini P3,000/month
+					
+	The first of two start-up designs. Best for new couples or bachelor who prefer a not-so-spacious home. It has one bedroom(6.25sqm) a comfort room and a living area, a kitchen counter, dining area and a living area..">
+					</div></a>
+					
+					<div class="textOverImage" style="background-Image:url(1pres.jpg)"
+					data-text="Silang P4,000/month
+	Through its wider floor, Silang house model is perfect for growing families that are always on the go. The ease of having a single stry home allows more opportunity for strenghtening relationships through harmonious family acts..">
+					</div></a>
+				</form>
+		</div>
+	</body>
+</html>
